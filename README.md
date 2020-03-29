@@ -1,2 +1,0 @@
-# tablice
-Tablice
